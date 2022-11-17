@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+app.iosgods.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	eyJpdiI6Ikt3VXErN2Z1U3BjUWFOekpNcVc2VWc9PSIsInZhbHVlIjoiRUd2UEVTTXNSWW14bmt2TlBBM05SWmw3TDJVbTVuc0REZUFGU0Y2b2dUc0NCblF3cldTelFjeHF5WFwvXC9zbjBHIiwibWFjIjoiNzRmMmYwNDJjOWRjNjA2NWUzZTY0NjU1YWRmNmM2NGUxZGQ2Y2Y2MTc2NTkzZjg5YWZiNTA0MjIxZTdjYWIwZCJ9
+app.iosgods.com	TRUE	/	FALSE	1999999999	iosgods_jailed_app_session	SNaNh5dtrQnKafB63sy5k8Ja1urS6DZpih9HyzAM
+
