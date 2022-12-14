@@ -477,7 +477,7 @@
     function iOS_version() {
       if(navigator.userAgent.match(/ipad|iphone|ipod/i)){ //if the current device is an iDevice
         var ios_info ={};
-        ios_info.iOSVersion=(navigator.userAgent).match(/IOS (\d)?\d_\d(_\d)?/i)[0].replace(/_/g,".");
+        ios_info.iOSVersion=(navigator.userAgent).match(/OS (\d)?\d_\d(_\d)?/i)[0].replace(/_/g,".");
         return(ios_info);
       }
     }
