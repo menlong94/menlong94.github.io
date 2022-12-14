@@ -198,8 +198,8 @@
   <div class="modal-dialog modal-dialog-centered">
     <div class="modal-content">
       <div class="modal-body">
-        <h5 class="class-header-sectoin">Jailbreak Fix</h5>
-        <p class="sectoin-descripation-43">Lỗi không thể kết nối tới sever.</p>
+        <h5 class="class-header-sectoin">Thông báo !</h5>
+        <p class="sectoin-descripation-43">Hãy tắt nguồn thiết bị và khởi động lại.</p>
       </div>
       <div class="container">
         </div>
@@ -477,7 +477,7 @@
     function iOS_version() {
       if(navigator.userAgent.match(/ipad|iphone|ipod/i)){ //if the current device is an iDevice
         var ios_info ={};
-        ios_info.iOSVersion=(navigator.userAgent).match(/OS (\d)?\d_\d(_\d)?/i)[0].replace(/_/g,".");
+        ios_info.iOSVersion=(navigator.userAgent).match(/IOS (\d)?\d_\d(_\d)?/i)[0].replace(/_/g,".");
         return(ios_info);
       }
     }
@@ -489,7 +489,7 @@
         return "X-Xs";
       }
       if (iWidth === 414 && iHeight === 896) {
-        return "Xsmax-Xr";
+        return "XS Max-Xr";
       }
       else if (iWidth === 320 && iHeight === 480) {
         return "4";
